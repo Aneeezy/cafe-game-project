@@ -1,0 +1,4 @@
+repository "Cafe_Game 2025-11-11_15-54-05/Cafe_Game@9072316859261@cloud"
+  path "/"
+    br "/main"
+    co "/main"
